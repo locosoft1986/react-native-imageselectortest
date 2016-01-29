@@ -1,0 +1,17 @@
+<resources>
+    <string name="imageselector_done">Done</string>
+    <string name="imageselector_title">Images</string>
+    <string name="imageselector_preview_default">Preview(1)</string>
+    <string name="imageselector_timeline_default">2015.05.24</string>
+    <string name="imageselector_take_picture">New Picture</string>
+    <string name="imageselector_image_size_default">1 Picture</string>
+    <string name="imageselector_image_size_single"> Picture</string>
+    <string name="imageselector_image_size_multiple"> Pictures</string>
+    <string name="imageselector_progress_title">Processing Images</string>
+    <string name="imageselector_progress_content">This may take a few moments</string>
+
+    <string name="imageselector_folder_all">All Images</string>
+    <string name="imageselector_preview">Preview</string>
+    <string name="imageselector_msg_no_camera">No system camera found</string>
+    <string name="imageselector_msg_amount_limit">Select images amount limit is reached</string>
+</resources>

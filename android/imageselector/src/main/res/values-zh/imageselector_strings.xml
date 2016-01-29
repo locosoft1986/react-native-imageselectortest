@@ -1,0 +1,17 @@
+<resources>
+    <string name="imageselector_done">完成</string>
+    <string name="imageselector_title">图片</string>
+    <string name="imageselector_preview_default">预览(1)</string>
+    <string name="imageselector_timeline_default">2015.05.24</string>
+    <string name="imageselector_take_picture">拍摄照片</string>
+    <string name="imageselector_image_size_default">1张</string>
+    <string name="imageselector_image_size_single">张</string>
+    <string name="imageselector_image_size_multiple">张</string>
+    <string name="imageselector_progress_title">正在处理图片</string>
+    <string name="imageselector_progress_content">请稍等片刻</string>
+
+    <string name="imageselector_folder_all">所有照片</string>
+    <string name="imageselector_preview">预览</string>
+    <string name="imageselector_msg_no_camera">没有系统相机</string>
+    <string name="imageselector_msg_amount_limit">已经达到最高选择数量</string>
+</resources>
